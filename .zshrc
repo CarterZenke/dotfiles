@@ -48,3 +48,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Alias dotfiles repository
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+# Define CDPATH
+export CDPATH=.:Dropbox\ \(CS50\)
