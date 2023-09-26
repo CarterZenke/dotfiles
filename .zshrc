@@ -50,4 +50,9 @@ source $ZSH/oh-my-zsh.sh
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 # Define CDPATH
-export CDPATH=.:Dropbox\ \(CS50\)
+export CDPATH=.:CS50\ Dropbox/Carter\ Zenke
+
+# Set up pyenv
+export PYENV_ROOT=$HOME/.pyenv
+command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
