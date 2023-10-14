@@ -1,5 +1,6 @@
 adobe-creative-cloud
 anki
+arc
 asana
 docker
 dropbox
