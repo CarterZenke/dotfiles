@@ -1,6 +1,3 @@
-http-server
-pyenv
-xz
 autoconf
 brotli
 c-ares
