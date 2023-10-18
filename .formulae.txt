@@ -4,7 +4,6 @@ c-ares
 ca-certificates
 cairo
 coreutils
-docker
 docker-completion
 emacs
 fontconfig

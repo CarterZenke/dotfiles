@@ -3,6 +3,7 @@ adobe-creative-cloud
 anki
 arc
 asana
+docker
 dropbox
 front
 google-chrome
